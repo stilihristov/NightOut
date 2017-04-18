@@ -1,2 +1,6 @@
 # NightOut-eventwebsite
-TP project 2016/17 event website 
+<b>TP project 2016/17 Event Website</b>
+   Project made by:
+  11a
+  Stiliyan Hristov 26
+  Liliyan Vachkov 18
